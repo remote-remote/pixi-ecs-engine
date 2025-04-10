@@ -5,6 +5,12 @@
   "references": [
     {
       "path": "./libs/engine"
+    },
+    {
+      "path": "./demos/santa-e2e"
+    },
+    {
+      "path": "./demos/santa"
     }
   ]
 }
